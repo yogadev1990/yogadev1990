@@ -21,7 +21,7 @@ I'm a Junior Full Stack Web and FiveM Server Developer, currently learning other
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ShennBoku's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShennBoku&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+      <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ShennBoku's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yogadev1990&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
       <br/>
       <sup><sub><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sub></sup>
   </p>
