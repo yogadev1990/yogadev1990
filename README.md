@@ -1,5 +1,5 @@
-# Hi there 👋,  <br> I'm Afdhalul Ichsan Yourdan
-![I'm Afdhalul Ichsan Yourdan](https://raw.githubusercontent.com/ShennBoku/ShennBoku/main/Shennboku.png)
+# Hi there 👋,  <br> I'm Randa Yoga Saputra
+![I'm Randa Yoga Saputra](https://raw.githubusercontent.com/ShennBoku/ShennBoku/main/Shennboku.png)
 
 ## Information
 
