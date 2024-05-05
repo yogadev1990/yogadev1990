@@ -4,7 +4,7 @@
 ## Information
 
 I'm a Junior Full Stack Web and FiveM Server Developer, currently learning other programming languages like Python, NodeJS, LUA, etc.
-- 🔭 I'm currently lead on [ShennX Network](https://shennx.net/) 
+- 🔭 I'm currently lead on Revanda Corporation 
 - 🌱 I'm currently developing a FiveM (GTA V) server for [iCONIC RP Indonesia](https://iconicroleplay.id/)
 - 💼 I'm pursuing a Bachelor of Informatics Engineering degree
 - 📫 How to reach me: afdhalul@shenn.id 
