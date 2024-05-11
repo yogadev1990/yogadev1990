@@ -1,18 +1,18 @@
-# Hi there 👋,  <br> I'm Randa Yoga Saputra
+# Hi there 👋, I'm Randa Yoga Saputra
 ![I'm Randa Yoga Saputra](https://raw.githubusercontent.com/ShennBoku/ShennBoku/main/Shennboku.png)
 
 ## Information
 
-I'm a Junior Full Stack Web and FiveM Server Developer, currently learning other programming languages like Python, NodeJS, LUA, etc.
-- 🔭 I'm currently lead on Revanda Corporation 
-- 🌱 I'm currently developing a FiveM (GTA V) server for [iCONIC RP Indonesia](https://iconicroleplay.id/)
-- 💼 I'm pursuing a Bachelor of Informatics Engineering degree
-- 📫 How to reach me: afdhalul@shenn.id 
+I'm a Junior Full Stack Web Developer, currently learning programming languages like js & php.
+- 🔭 I'm the owner of [Revanda Store](https://revandastore.com)
+- 🌱 I'm the owner of [Torampedia](https://torampedia.my.id)
+- 💼 I'm a Medical Student of Sriwijaya University
+- 📫 How to reach me: randasaputra.ks@gmail.com
 
 
 ## Currently listening to
 
-<a href="https://volt.fm/ShennBoku" target="_blank"><img src="https://spotify-nowplay-badge-shennboku.vercel.app/api/now-playing.svg" width="540" height="52" alt="now playing"></a>
+<a href="https://volt.fm/Yoga_Saputra" target="_blank"><img src="https://spotify-nowplay-badge-shennboku.vercel.app/api/now-playing.svg" width="540" height="52" alt="now playing"></a>
 
   
 ## Github Stats
@@ -21,7 +21,7 @@ I'm a Junior Full Stack Web and FiveM Server Developer, currently learning other
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ShennBoku's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yogadev1990&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+      <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yoga's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yogadev1990&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
       <br/>
       <sup><sub><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sub></sup>
   </p>
