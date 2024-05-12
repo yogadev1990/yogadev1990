@@ -3,7 +3,8 @@
 
 ## Information
 
-I'm a Junior Full Stack Web Developer, currently learning programming languages like .js & .php
+I'm a Junior Full Stack Web Developer, currently learning programming languages like JavaScript and PHP. For my everyday communication, I am fluent in Indonesian, English, Japanese, Javanese, and Palembang languages.
+
 - 🎮 I'm the owner of [Revanda Store](https://revandastore.com)
 - 🌏 I'm the owner of [Torampedia](https://torampedia.my.id)
 - 🌸 I'm the owner of [Chizuru Bot](https://revandastore.com/katalog/11)
