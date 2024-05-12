@@ -3,10 +3,11 @@
 
 ## Information
 
-I'm a Junior Full Stack Web Developer, currently learning programming languages like js & php.
-- 🔭 I'm the owner of [Revanda Store](https://revandastore.com)
-- 🌱 I'm the owner of [Torampedia](https://torampedia.my.id)
-- 💼 I'm a Medical Student of Sriwijaya University
+I'm a Junior Full Stack Web Developer, currently learning programming languages like .js & .php
+- 🎮 I'm the owner of [Revanda Store](https://revandastore.com)
+- 🌏 I'm the owner of [Torampedia](https://torampedia.my.id)
+- 🌸 I'm the owner of [Chizuru Bot](https://revandastore.com/katalog/11)
+- 🩺 I'm currently pursuing a medical degree at Sriwijaya University.
 - 📫 How to reach me: randasaputra.ks@gmail.com
 
 
