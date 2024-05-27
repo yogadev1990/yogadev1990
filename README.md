@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Randa Yoga Saputra
-![I'm Randa Yoga Saputra](https://chizuru.revandastore.com/image/banner.jpg)
+![I'm Randa Yoga Saputra](https://github.com/yogadev1990/yogadev1990/blob/1767ca7fcc6e419e01f86eed8c03f0d456456b20/banner%20web.jpg)
 
 ## Information
 
