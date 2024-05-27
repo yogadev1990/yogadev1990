@@ -8,6 +8,7 @@ I'm a Junior Full Stack Web Developer, currently learning programming languages 
 - 🎮 I'm the owner of [Revanda Store](https://revandastore.com)
 - 🌏 I'm the owner of [Torampedia](https://torampedia.my.id)
 - 🌸 I'm the owner of [Chizuru Bot](https://revandastore.com/katalog/11)
+- 🩺 I'm the owner of [Revanda Medical Store](https://torampedia.my.id)
 - 🩺 I'm currently pursuing a medical degree at Sriwijaya University.
 - 📫 How to reach me: uchiihitoo@gmail.com
 
