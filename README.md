@@ -8,7 +8,7 @@ I'm a Junior Full Stack Web Developer, currently learning programming languages 
 - 🎮 I'm the owner of [Revanda Store](https://revandastore.com)
 - 🌏 I'm the owner of [Torampedia](https://torampedia.my.id)
 - 🌸 I'm the owner of [Chizuru Bot](https://revandastore.com/katalog/11)
-- 🩺 I'm the owner of [Revanda Medical Store](https://torampedia.my.id)
+- 💉 I'm the owner of [Revanda Medical Store](https://medical.revandastore.com)
 - 🩺 I'm currently pursuing a medical degree at Sriwijaya University.
 - 📫 How to reach me: uchiihitoo@gmail.com
 
@@ -21,9 +21,9 @@ I'm a Junior Full Stack Web Developer, currently learning programming languages 
 ## Let's Connect
 
 <p align="center">
-    <a href="mailto:afdhalul@shenn.id" target="BLANK"><img src="https://raw.githubusercontent.com/ShennBoku/ShennBoku/main/assets/images/icons8-bubbles-gmail.png" alt="Gmail"/></a>
-    <a href="https://github.com/ShennBoku"><img src="https://raw.githubusercontent.com/ShennBoku/ShennBoku/main/assets/images/icons8-bubbles-github.png" alt="Github"/></a>
-	<a href="https://dev.to/ShennBoku" target="BLANK"><img src="https://raw.githubusercontent.com/ShennBoku/ShennBoku/main/assets/images/icons8-bubbles-dev.png" alt="dev.to"/></a>
+    <a href="mailto:randasaputra.ks@gmail.com" target="BLANK"><img src="https://raw.githubusercontent.com/ShennBoku/ShennBoku/main/assets/images/icons8-bubbles-gmail.png" alt="Gmail"/></a>
+    <a href="https://github.com/yogadev1990"><img src="https://raw.githubusercontent.com/ShennBoku/ShennBoku/main/assets/images/icons8-bubbles-github.png" alt="Github"/></a>
+	<a href="https://dev.to/yogadev1990" target="BLANK"><img src="https://raw.githubusercontent.com/ShennBoku/ShennBoku/main/assets/images/icons8-bubbles-dev.png" alt="dev.to"/></a>
 	<a href="https://linkedin.com/in/afdhalul-ichsan-yourdan" target="BLANK"><img src="https://raw.githubusercontent.com/ShennBoku/ShennBoku/main/assets/images/icons8-bubbles-linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://facebook.com/ShennBoku" target="BLANK"><img src="https://raw.githubusercontent.com/ShennBoku/ShennBoku/main/assets/images/icons8-bubbles-facebook.png" alt="Facebook"/></a>
 	<a href="https://instagram.com/ShennBoku/" target="BLANK"><img src="https://raw.githubusercontent.com/ShennBoku/ShennBoku/main/assets/images/icons8-bubbles-instagram.png" alt="Instagram"/></a>
