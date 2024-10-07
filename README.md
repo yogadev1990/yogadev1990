@@ -8,7 +8,7 @@ I'm a Junior Full Stack Web Developer, currently learning programming languages 
 - 🎮 I'm the owner of [Revanda Store](https://revandastore.com)
 - 🌏 I'm the owner of [Torampedia](https://torampedia.my.id)
 - 🌸 I'm the owner of [Chizuru WA Bot](https://revandastore.com/katalog/11)
-- 🦷 I'm the owner of Dentin WA Bot
+- 🦷 I'm the owner of Amamiya WA Bot
 - 💉 I'm the owner of [Revaceus Store](https://revaceus.revandastore.com)
 - 🩺 I'm currently studying dental medicine at Sriwijaya University.
 - 📫 How to reach me: uchiihitoo@gmail.com
