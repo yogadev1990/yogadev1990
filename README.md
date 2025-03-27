@@ -16,7 +16,7 @@ I'm a Junior Full Stack Web Developer, currently learning programming languages 
 
 ## Currently listening to
 
-<a href="https://volt.fm/Yoga_Saputra" target="_blank"><img src="https://spotify-nowplay-badge-shennboku.vercel.app/api/now-playing.svg" width="540" height="52" alt="now playing"></a>
+<a href="https://volt.fm/Yoga_Saputra" target="_blank"><img src="https://spotify-five-cyan.vercel.app/api/now-playing.svg" width="540" height="52" alt="now playing"></a>
 
 
 ## Let's Connect
